@@ -4,6 +4,9 @@ This script is written in Python using version 3.5. No external modules shold be
 
 #Running the Script
 
+Run the script using the
+	$python transactions.py
+command with any relevant command line arguments as listed below
 
 #Output
 
